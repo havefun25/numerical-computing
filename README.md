@@ -5,7 +5,7 @@ Give tools for calculating basis of Discrete Variable Representation.
 - oath_polynomials
 Declaration of variables used in constructing orthoglnal polynomials.
 - argument
-- |  Variables  |  Description  |
+|  Variables  |  Description  |
 | ---- | ---- |
 |  TD  |  TD  |
 |  TD  |  TD  |
